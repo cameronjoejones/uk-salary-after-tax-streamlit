@@ -95,7 +95,7 @@ st.sidebar.info("This app calculates your take home pay after tax and national i
 st.sidebar.info("Created by Cameron Jones. ")
 st.sidebar.markdown("""
 <div style='display: flex; justify-content: center; align-items: center;'>
-  <a href="https://github.com/cameronjoejones/streamlit-sales-dashboard.git" target="_blank">
+  <a href="https://github.com/cameronjoejones/uk-salary-after-tax-streamlit.git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
   </a>
 </div>
